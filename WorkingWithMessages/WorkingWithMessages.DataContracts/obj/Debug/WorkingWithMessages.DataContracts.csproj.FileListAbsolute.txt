@@ -1,0 +1,9 @@
+C:\Demos\ServiceBus\BMID\WorkingWithMessages\WorkingWithMessages.DataContracts\bin\Debug\WorkingWithMessages.DataContracts.dll
+C:\Demos\ServiceBus\BMID\WorkingWithMessages\WorkingWithMessages.DataContracts\bin\Debug\WorkingWithMessages.DataContracts.pdb
+C:\Demos\ServiceBus\BMID\WorkingWithMessages\WorkingWithMessages.DataContracts\obj\Debug\WorkingWithMessages.DataContracts.csprojResolveAssemblyReference.cache
+C:\Demos\ServiceBus\BMID\WorkingWithMessages\WorkingWithMessages.DataContracts\obj\Debug\WorkingWithMessages.DataContracts.dll
+C:\Demos\ServiceBus\BMID\WorkingWithMessages\WorkingWithMessages.DataContracts\obj\Debug\WorkingWithMessages.DataContracts.pdb
+D:\AzureServiceBus\WorkingWithMessages\WorkingWithMessages.DataContracts\bin\Debug\WorkingWithMessages.DataContracts.dll
+D:\AzureServiceBus\WorkingWithMessages\WorkingWithMessages.DataContracts\bin\Debug\WorkingWithMessages.DataContracts.pdb
+D:\AzureServiceBus\WorkingWithMessages\WorkingWithMessages.DataContracts\obj\Debug\WorkingWithMessages.DataContracts.dll
+D:\AzureServiceBus\WorkingWithMessages\WorkingWithMessages.DataContracts\obj\Debug\WorkingWithMessages.DataContracts.pdb

@@ -1,0 +1,14 @@
+C:\Demos\ServiceBus\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.dll
+C:\Demos\ServiceBus\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.pdb
+C:\Demos\ServiceBus\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.dll
+C:\Demos\ServiceBus\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.pdb
+C:\Demos\ServiceBus\RfidCheckout\RfidCheckout.Config\obj\Debug\RfidCheckout.Config.csprojResolveAssemblyReference.cache
+C:\Demos\ServiceBus\BMID\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.dll
+C:\Demos\ServiceBus\BMID\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.pdb
+C:\Demos\ServiceBus\BMID\RfidCheckout\RfidCheckout.Config\obj\Debug\RfidCheckout.Config.csprojResolveAssemblyReference.cache
+C:\Demos\ServiceBus\BMID\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.dll
+C:\Demos\ServiceBus\BMID\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.pdb
+D:\AzureServiceBus\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.dll
+D:\AzureServiceBus\RfidCheckout\RfidCheckout.Config\bin\Debug\DuplicateDetection.Config.pdb
+D:\AzureServiceBus\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.dll
+D:\AzureServiceBus\RfidCheckout\RfidCheckout.Config\obj\Debug\DuplicateDetection.Config.pdb
